@@ -9,6 +9,7 @@ Self-directed research studies on public data by [Mikhail Serikov](https://githu
 
 #### Hazard, loss and risk transfer
 - [de-windstorm-risk](https://github.com/serikov-climate-risk/de-windstorm-risk): German windstorm loss index, extreme value statistics, CLIMADA calibration, parametric trigger basis risk
+- [storm-uncertainty-eu](https://github.com/serikov-climate-risk/storm-uncertainty-eu): windstorm and compound wind-rain uncertainty over Western Europe on ERA5, extremes with NAO and East Atlantic covariates, stochastic event set and importance resampling of loss models
 
 #### Climate economics
 - [climate-damage-panel](https://github.com/serikov-climate-risk/climate-damage-panel): regional damage function for weather extremes (fixed effects panel, double machine learning)
